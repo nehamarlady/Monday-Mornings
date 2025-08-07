@@ -1,64 +1,83 @@
-#Monday Mornings
-Monday Mornings is an interactive fiction game created with Inform 7, where you play as a person who is trying to get ready for work by 8:30 AM. You’ll need to manage your time wisely, get dressed, eat breakfast, and face the challenges of a rushed Monday morning. The game features various interactive objects and time-based mechanics that affect your progress through the day.
+Monday Mornings
+Monday Mornings is an interactive fiction game created with Inform 7. In this game, you play as a character who wakes up on a busy Monday morning and tries to get ready for work by 8:30 AM. You’ll manage your time wisely by interacting with various objects around the house, choosing what to wear, eating breakfast, and staying on top of your routine.
 
-#Gameplay:
-In this game, you will:
+Gameplay Overview
+In Monday Mornings, you will:
 
-Wake up and start your morning routine.
+Wake up at 8:00 AM and begin your morning routine.
 
-Interact with various objects, such as your smartphone, wardrobe, breakfast, and TV.
+Manage your time: Make key decisions like wearing clothes, eating breakfast, and checking your smartphone. Each action affects the time of day.
 
-Choose what to wear and manage your time accordingly.
+Interact with various objects: From your smartphone to your wardrobe, each item serves a purpose.
 
-Make decisions based on time (e.g., taking too long to scroll on your phone or eat breakfast could cause you to be late for work).
+Face consequences: Your goal is to get ready for work by 8:30 AM. If you’re late, the story ends with consequences.
 
-The game ends with one of several outcomes based on how well you manage your time. Will you make it to work on time, or will you be late?
+Multiple Outcomes: Your choices, including what you wear, influence the ending.
 
-#Features:
-Time Management: The game tracks the time of day, and each action you take (like scrolling through your phone or eating breakfast) affects your progress.
+Features
+Time-based mechanics: Each action you take adds time to the clock, so be careful how much time you spend on each task.
 
-Multiple Outcomes: Your choices and the time you spend on various tasks determine whether you are able to make it to work on time.
+Inventory and clothing system: Wear pajamas, casual clothes, or formal attire, each with a unique effect on the game's outcome.
 
-Inventory System: Items such as clothing, key, and smartphone can be interacted with to affect your progress.
+Interactive rooms: Explore your bedroom, dining room, hall, and garage as you manage your morning.
 
-Time-based Actions: Actions such as eating, wearing clothes, and scrolling through your phone incrementally affect the game time.
+Dynamic endings: The game has different outcomes based on your actions and how well you manage your time.
 
-#Rooms
-Bedroom: The starting point of the game. You can interact with the nightstand, drawer, wardrobe, and choose your clothes.
+Rooms in the Game
+Bedroom: Start your day here. Choose what to wear from the wardrobe and interact with various objects like your smartphone and drawer.
 
-Dining Room: Eat your breakfast and read the newspaper here. Time management is key!
+Dining Room: Eat breakfast and read the newspaper to stay informed, but don’t let time slip away.
 
-Hall: Contains the sofa and TV. Relax, watch the news, but beware of wasting time.
+Hall: Relax on the sofa or watch the TV, but be careful not to waste too much time here.
 
-Garage: The final destination. If you’re late, the story ends with consequences!
+Garage: Head out the main door and leave for work. Time management is critical to avoid being late.
 
-#Installation:
-To play the game, follow these steps:
+Game Mechanics
+Time Management
+The time of day is tracked throughout the game. Each action you perform, such as checking your phone or eating breakfast, will increase the time. Make sure to manage your tasks wisely to avoid being late for work!
 
-Download the Blorb File:
+Clothing System
+Choose from:
 
-The Monday Mornings.gblorb file is ready to play. You can download it from [link-to-download].
+Pajamas: Casual clothes to relax at home, but not suitable for the office.
 
-Play on Your Computer:
+Casual Clothes: Perfect for a casual day out but not ideal for work.
 
-Use an Inform 7 interpreter like Quixe or Parchment to play the game in your browser or offline.
+Formal Clothes: The best choice for going to the office.
 
-#How to Play:
-Start the Game: When you begin, you'll be in the Bedroom at 8:00 AM. Your goal is to get ready for work by 8:30 AM.
+Game Endings
+There are several possible endings, determined by your actions:
 
-Time Management: Each action will increase the time of day. Make decisions wisely to avoid running out of time.
+Late to Work: If you don’t manage your time and tasks well, you will be late for work.
 
-Interact with Objects: Click or type commands to interact with objects such as the smartphone, clothing, wardrobe, and breakfast.
+Conquered the Morning (Casuals or Pajamas): Wearing the wrong clothes leads to a poor start to the day, but at least you got out of bed!
 
-Endings: The game ends when you either leave the house or run out of time. Your final decision on what you're wearing will influence the ending.
+Successfully Made It to Work: If you wear formal clothes and manage your time well, you’ll be ready for the day ahead.
 
+Installation & Playing the Game
+1. Download the Game
+Download the blorb file for the game:
+Download the Monday Mornings game
 
-#Credits
-YouTube channel Zoroarrkk for helping with the setup and tutorial of Inform 7.
+2. Play the Game
+To play, you can either use:
 
-Inform 7 Handbook: Inform 7 Handbook for guiding me through the concepts of Inform 7.
+A web-based interpreter like Parchment or Quixe.
 
-ChatGPT for assistance with English grammar correction and coding help.
+An offline interpreter such as Frotz for Windows or Zoom for macOS.
 
-#License
-This game is licensed under the MIT License. You may freely share and modify it, but please give appropriate credit to the original authors.
+3. Play through the Story
+Start the game by loading the Monday Mornings.gblorb file into an interpreter.
+
+You’ll start in the Bedroom and progress through the game by interacting with objects and managing your time.
+
+Credits
+YouTube channel Zoroarrkk: For assisting with Inform 7 tutorials and setup.
+
+Inform 7 Handbook: A helpful resource for learning and understanding Inform 7.
+Read the Inform 7 Handbook
+
+ChatGPT: For assistance with English grammar corrections and coding help.
+
+License
+This game is released under the MIT License. Feel free to share and modify the game, but please credit the original creators.
